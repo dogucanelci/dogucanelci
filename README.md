@@ -5,6 +5,8 @@
 
 • ✔️ Machine Learning Lover
 
+• ✔️ Data Science
+
 • ✔️ Full Stack Developer Candidate
 
 • ✔️ Startup Follower
