@@ -1,7 +1,7 @@
-## ✨ Hi, I am a permanent student who constantly strives to learn,
-## and also a passionate software developer.
+## ✨ Hi, I am a permanent student who continually strive to learn,
+## and also a passionate Data Scientist.
 
-• ✔️ Computer Engineering M.S student in Istanbul Technical University
+• ✔️ Computer Engineering M.S student at Istanbul Technical University
 
 • ✔️ Machine Learning Lover
 
