@@ -7,6 +7,6 @@
 
 • ✔️ Data Scientist
 
-• ✔️ Full Stack Developer Candidate
+• ✔️ Data Analyst
 
 • ✔️ Startup Follower
